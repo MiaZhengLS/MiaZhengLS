@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mia Zheng</h1>
 <h3 align="center">Software Developer</h3>
-<p align="center">System Design | Deep Learning | Computer Graphics</p>
+<p align="center">Software Development | Computer Graphics | Deep Learning</p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
